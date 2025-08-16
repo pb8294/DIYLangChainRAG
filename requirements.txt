@@ -1,0 +1,16 @@
+python-dotenv
+jupyterlab
+ipywidgets
+numpy
+scikit-learn
+matplotlib
+langchain
+langchain-core
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+langchain-community
+Langchain-huggingface
+matplotlib
+plotly
+jupyter-dash
